@@ -1,0 +1,19 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1734615429290,1916,LandingPage,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-1,,true,,7204,1299,1,1,null,0,62,1310
+1734615429348,1238,LandingPage-166,200,OK,Thread Group 1-1,text,true,,4964,451,1,1,https://www.demoblaze.com/,1236,0,1043
+1734615430588,191,LandingPage-182,200,OK,Thread Group 1-1,text,true,,649,448,1,1,https://www.demoblaze.com/config.json,191,0,0
+1734615430782,487,LandingPage-183,200,OK,Thread Group 1-1,text,true,,1591,400,1,1,https://api.demoblaze.com/entries,486,0,267
+1734615431270,1010,SignUp,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,751,1019,1,1,null,0,551,0
+1734615431271,468,SignUp-193,200,OK,Thread Group 1-1,text,true,,449,501,1,1,https://api.demoblaze.com/signup,468,0,0
+1734615432289,542,SignUp-194,200,OK,Thread Group 1-1,text,true,,302,518,1,1,https://api.demoblaze.com/signup,541,0,0
+1734615432832,2070,Login,200,"Number of samples in transaction : 7, number of failing samples : 0",Thread Group 1-1,,true,,9501,3303,1,1,null,0,15,0
+1734615432833,193,Login-195,200,OK,Thread Group 1-1,text,true,,449,500,1,1,https://api.demoblaze.com/login,193,0,0
+1734615433027,236,Login-196,200,OK,Thread Group 1-1,text,true,,551,517,1,1,https://api.demoblaze.com/login,235,0,0
+1734615433271,201,Login-197,200,OK,Thread Group 1-1,text,true,,5111,451,1,1,https://www.demoblaze.com/,197,0,0
+1734615433473,182,Login-213,200,OK,Thread Group 1-1,text,true,,616,448,1,1,https://www.demoblaze.com/config.json,182,0,0
+1734615433657,491,Login-215,200,OK,Thread Group 1-1,text,true,,449,500,1,1,https://api.demoblaze.com/check,491,0,0
+1734615434148,213,Login-214,200,OK,Thread Group 1-1,text,true,,1668,400,1,1,https://api.demoblaze.com/entries,212,0,0
+1734615434362,554,Login-216,200,OK,Thread Group 1-1,text,true,,657,487,1,1,https://api.demoblaze.com/check,553,0,0
+1734615434918,857,PhoneCat,200,"Number of samples in transaction : 2, number of failing samples : 0",Thread Group 1-1,,true,,1627,981,1,1,null,0,3,0
+1734615434919,187,PhoneCat-384,200,OK,Thread Group 1-1,text,true,,449,500,1,1,https://api.demoblaze.com/bycat,187,0,0
+1734615435108,670,PhoneCat-385,200,OK,Thread Group 1-1,text,true,,1178,481,1,1,https://api.demoblaze.com/bycat,669,0,0
